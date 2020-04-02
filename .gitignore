@@ -1,0 +1,6 @@
+output/
+*.har
+*.pdf
+node_modules/
+_venv/
+.venv/
